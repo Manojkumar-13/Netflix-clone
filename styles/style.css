@@ -228,7 +228,7 @@ font-weight: 600;
 
 @media only screen and (min-width:500px){
   .header{
-    height:120vh;
+    height:650px;
   }
   .hero h1{
     font-size: 2.6rem;
@@ -376,4 +376,4 @@ padding:0.7rem 1.2rem;
   .hero p{
     font-size: 1.5rem;
   }
-} */
+}
